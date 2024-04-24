@@ -1,0 +1,3 @@
+function pressClick() {
+    alert("cliquei");
+}
